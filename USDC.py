@@ -266,4 +266,22 @@ def main():
         report
     )
 
-    logger.displ
+    logger.display()
+
+    print()
+    print(
+        "This project demonstrates Python architecture concepts."
+    )
+
+    print(
+        "No blockchain communication is implemented."
+    )
+
+    print(
+        "No transaction signing is performed."
+    )
+
+
+if __name__ == "__main__":
+    main()
+```
